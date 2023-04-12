@@ -1,0 +1,11 @@
+{
+    "categories": [
+        "dev"
+    ],
+    "created_at": "2020-01-05 13:42:19.324003",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "wsihtcmyrnkptsnr_b4ygg",
+    "updated_at": "2020-01-05 13:42:19.324003",
+    "url": "https://api.chucknorris.io/jokes/wsihtcmyrnkptsnr_b4ygg",
+    "value": "Chuck Norris doesn't bug hunt as that signifies a probability of failure, he goes bug killing."
+}
